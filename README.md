@@ -30,4 +30,9 @@ an 'output.json' is created from 'output.json' which then
 creates a 'output.html' of all external and internal links
 as clickable links .
 
-Data is gathered for analysis to the output folder.
+rss feeds can be extracted using ```rss.py```
+
+Data is gathered for analysis to the output folder...
+*************************************************************************************************************
+ Copyright © 2024 Psico Communications and Blockchain Development.
+*************************************************************************************************************
