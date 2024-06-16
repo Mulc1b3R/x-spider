@@ -8,6 +8,7 @@ Primary use : cybersecurity.
 After running the spider/crawler on any given domain or url you 
 will have a folder containing a complete data set of the 'attack surface'
 mapped.
+use in conjunction with 'Hummingbird' @ https://github.com/Mulc1b3R/hummingbird
 ********************************************************************************************************
 method : Add the target url to the ```example.env``` file and rename the file
          ```.env```
